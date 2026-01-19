@@ -1,7 +1,5 @@
 ## Hi 👋 I'm a Python Backend Developer
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark)
-
 Backend for high-load systems: APIs, databases, automation.  
 Python • FastAPI • Django • PostgreSQL • Docker  
 Interested in AI integrations.
